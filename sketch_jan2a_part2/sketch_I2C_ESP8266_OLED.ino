@@ -4,8 +4,8 @@
 #include "SSD1306AsciiWire.h"
 
 // ---------- I2C Pins ----------
-#define SDA_PIN D2   // GPIO4
-#define SCL_PIN D1   // GPIO5
+#define SDA_PIN D3   // GPIO4
+#define SCL_PIN D6   // GPIO5
 
 // ---------- I2C Addresses ----------
 #define SCD4X_ADDR SCD41_I2C_ADDR_62
