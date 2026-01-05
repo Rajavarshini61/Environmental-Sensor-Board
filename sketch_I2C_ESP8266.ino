@@ -1,8 +1,8 @@
 #include <Wire.h>
 #include <SensirionI2cScd4x.h>
 
-#define SDA_PIN D2   // GPIO4
-#define SCL_PIN D1   // GPIO5
+#define SDA_PIN D3   // GPIO4
+#define SCL_PIN D6   // GPIO5
 
 SensirionI2cScd4x scd4x;
 
